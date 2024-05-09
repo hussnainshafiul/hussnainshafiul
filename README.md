@@ -2,34 +2,7 @@
 
 ###
 
-<div align="center" class="transition-text">
-  <h3 id="transition-text" class="transition-text__item">React Native Developer</h3>
-  <h3 id="transition-text" class="transition-text__item">Mobile App Developer</h3>
-</div>
-
-<style>
-  .transition-text {
-    display: inline-block;
-    position: relative;
-  }
-
-  .transition-text__item {
-    position: absolute;
-    top: 0;
-    left: 0;
-    opacity: 0;
-    animation: transitionText 5s infinite;
-  }
-
-  @keyframes transitionText {
-    0%, 100% {
-      opacity: 0;
-    }
-    50% {
-      opacity: 1;
-    }
-  }
-</style>
+<h3 align="center">React Native Developer || Mobile App Developer</h3>
 
 ###
 
